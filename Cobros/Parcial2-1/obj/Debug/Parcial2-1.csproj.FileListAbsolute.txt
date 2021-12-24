@@ -1,0 +1,70 @@
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\1era\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.exe.config
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\1era\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.exe
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\1era\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.pdb
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\1era\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.AssemblyReference.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\1era\Parcial2-1\Parcial2-1\obj\Debug\Parcial2_1.Form1.resources
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\1era\Parcial2-1\Parcial2-1\obj\Debug\Parcial2_1.Properties.Resources.resources
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\1era\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.GenerateResource.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\1era\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.CoreCompileInputs.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\1era\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.exe
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\1era\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.pdb
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\2da\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.exe.config
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\2da\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.exe
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\2da\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.pdb
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\2da\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.AssemblyReference.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\2da\Parcial2-1\Parcial2-1\obj\Debug\Parcial2_1.Form1.resources
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\2da\Parcial2-1\Parcial2-1\obj\Debug\Parcial2_1.Properties.Resources.resources
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\2da\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.GenerateResource.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\2da\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.CoreCompileInputs.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\2da\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.exe
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\2da\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.pdb
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\3era\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.exe.config
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\3era\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.exe
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\3era\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.pdb
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\3era\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.AssemblyReference.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\3era\Parcial2-1\Parcial2-1\obj\Debug\Parcial2_1.Form1.resources
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\3era\Parcial2-1\Parcial2-1\obj\Debug\Parcial2_1.Properties.Resources.resources
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\3era\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.GenerateResource.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\3era\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.CoreCompileInputs.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\3era\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.exe
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\3era\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.pdb
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\4ta\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.exe.config
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\4ta\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.exe
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\4ta\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.pdb
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\4ta\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.AssemblyReference.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\4ta\Parcial2-1\Parcial2-1\obj\Debug\Parcial2_1.Form1.resources
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\4ta\Parcial2-1\Parcial2-1\obj\Debug\Parcial2_1.Properties.Resources.resources
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\4ta\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.GenerateResource.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\4ta\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.CoreCompileInputs.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\4ta\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.exe
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\4ta\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.pdb
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\5ta\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.exe.config
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\5ta\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.exe
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\5ta\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.pdb
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\5ta\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.AssemblyReference.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\5ta\Parcial2-1\Parcial2-1\obj\Debug\Parcial2_1.Form1.resources
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\5ta\Parcial2-1\Parcial2-1\obj\Debug\Parcial2_1.Properties.Resources.resources
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\5ta\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.GenerateResource.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\5ta\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.CoreCompileInputs.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\5ta\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.exe
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\5ta\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.pdb
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\FINAL\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.exe.config
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\FINAL\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.exe
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\FINAL\Parcial2-1\Parcial2-1\bin\Debug\Parcial2-1.pdb
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\FINAL\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.AssemblyReference.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\FINAL\Parcial2-1\Parcial2-1\obj\Debug\Parcial2_1.Form1.resources
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\FINAL\Parcial2-1\Parcial2-1\obj\Debug\Parcial2_1.Properties.Resources.resources
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\FINAL\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.GenerateResource.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\FINAL\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.csproj.CoreCompileInputs.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\FINAL\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.exe
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\FINAL\Parcial2-1\Parcial2-1\obj\Debug\Parcial2-1.pdb
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\Subido a Git\Cobros\Parcial2-1\bin\Debug\Parcial2-1.exe.config
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\Subido a Git\Cobros\Parcial2-1\bin\Debug\Parcial2-1.exe
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\Subido a Git\Cobros\Parcial2-1\bin\Debug\Parcial2-1.pdb
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\Subido a Git\Cobros\Parcial2-1\obj\Debug\Parcial2-1.csproj.AssemblyReference.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\Subido a Git\Cobros\Parcial2-1\obj\Debug\Parcial2_1.Form1.resources
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\Subido a Git\Cobros\Parcial2-1\obj\Debug\Parcial2_1.Properties.Resources.resources
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\Subido a Git\Cobros\Parcial2-1\obj\Debug\Parcial2-1.csproj.GenerateResource.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\Subido a Git\Cobros\Parcial2-1\obj\Debug\Parcial2-1.csproj.CoreCompileInputs.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\Subido a Git\Cobros\Parcial2-1\obj\Debug\Parcial2-1.exe
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\PARCIAL 2\Soluciones\Subido a Git\Cobros\Parcial2-1\obj\Debug\Parcial2-1.pdb
